@@ -9,3 +9,6 @@ Git commit : -lances un éditeur de texte pour saisir un message.
 Git Push : permet de push vers la branche si on l'a spécifiée 
             juste après push.
 
+git remote set-url origin <URLFROMGITHUB> : permet de définir le remote 
+                                            d'après l'url donner avec le repertory github.
+

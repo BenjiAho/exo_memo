@@ -15,3 +15,13 @@ git remote set-url origin <URLFROMGITHUB> : permet de définir le remote
 git init :  créer un sous-répertoire .git dans le répertoire de travail  actif.
 
 git clone : permet de créer une copie ou un clone de dépôts distants.
+
+git checkout:checkout permet d'annuler les changements apportés à des fichiers ou de modifier des branches.
+
+git switch: permet de changer d'une branche spécifique à une autre.
+
+git reset: La commande git reset peut être utilisée durant un conflit de merge pour réinitialiser les fichiers en conflit à un état fonctionnel connu.
+
+git merge: combine plusieurs séquences de commits en un historique unifié.
+
+git status : inspecte un dépôt git.

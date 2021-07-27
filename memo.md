@@ -12,3 +12,6 @@ Git Push : permet de push vers la branche si on l'a spécifiée
 git remote set-url origin <URLFROMGITHUB> : permet de définir le remote 
                                             d'après l'url donner avec le repertory github.
 
+git init :  créer un sous-répertoire .git dans le répertoire de travail  actif.
+
+git clone : permet de créer une copie ou un clone de dépôts distants.
